@@ -2,6 +2,8 @@
 
 Localization readiness audit — pre-team-meeting status tracker for our localization push.
 
+Status: audit in progress
+
 ## What this is
 
 A small readiness audit that lives on GitHub so the whole team can point at it before we kick off the localization of our project docs. It gathers the current state of our machine-translation workspace, documents it, and gives everyone one place to leave feedback.
